@@ -37,3 +37,4 @@
 | Tesla               | [Tesla DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                          | Work on graph traversal and dynamic programming.     |
 | TikTok              | [TikTok DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Prioritize dynamic programming and recursion.        |
 | Nvidia              | [Nvidia DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Practice bit manipulation and backtracking.          |
+Ok
